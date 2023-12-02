@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #box{
+                width: 400px;
+                height: 400px;
+                background-color: brown;
+            }
+            #box:hover{background-color: green;}
+                width: 200px; 
+animation-duration: 10s;
+            animation-name: change;
+      animation-iteration-count: infinite;
+    
+
+    <body>
+        <div id="box"></div>
+
+    </body>
+</html>
